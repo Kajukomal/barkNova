@@ -1,0 +1,21 @@
+
+.container-fluid{
+    padding: 7% 15%;
+background-color: #ff4c68;
+color: white;
+text-align: center;
+    margin:auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.5rem;
+}
+img{
+    width:50%;
+}
+i {
+    padding: 8px;
+    margin:4px;
+}
+
+footer{
+    text-align: center;
+}
